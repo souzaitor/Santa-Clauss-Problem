@@ -80,7 +80,7 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](https://github.com/so
 
 
 [![author](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souzaitor)
-[![b](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/itorsouza)
+[![b](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itorsouza)
 
 
 <p align="right">(<a href="#top">Voltar ao Topo</a>)</p>
